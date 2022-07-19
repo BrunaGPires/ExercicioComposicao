@@ -1,0 +1,8 @@
+C:\Users\bruna.pires\source\repos\Fixacao09\Fixacao09\bin\Debug\Fixacao09.exe.config
+C:\Users\bruna.pires\source\repos\Fixacao09\Fixacao09\bin\Debug\Fixacao09.exe
+C:\Users\bruna.pires\source\repos\Fixacao09\Fixacao09\bin\Debug\Fixacao09.pdb
+C:\Users\bruna.pires\source\repos\Fixacao09\Fixacao09\obj\Debug\Fixacao09.csproj.AssemblyReference.cache
+C:\Users\bruna.pires\source\repos\Fixacao09\Fixacao09\obj\Debug\Fixacao09.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruna.pires\source\repos\Fixacao09\Fixacao09\obj\Debug\Fixacao09.csproj.CoreCompileInputs.cache
+C:\Users\bruna.pires\source\repos\Fixacao09\Fixacao09\obj\Debug\Fixacao09.exe
+C:\Users\bruna.pires\source\repos\Fixacao09\Fixacao09\obj\Debug\Fixacao09.pdb
